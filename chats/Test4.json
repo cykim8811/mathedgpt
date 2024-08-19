@@ -1,0 +1,1 @@
+{"messages": [{"id": 0, "role": "system", "content": "Chat started: 24.08.2010 14:29:25.\nBlock Math Format: \n$$\n\\pi\n$$\n\nInline Math Format: $\\pi$\n(without whitespace)\nThis rule should be strictly observed as the wrong notation could crash the program (such as math notation without $ sign)"}]}
